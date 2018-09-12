@@ -1,10 +1,4 @@
-body {
-  height:100%;
-}
-html{
-  height:100%;
-}
-header {
+body , html , header {
   height:100%;
 }
 
