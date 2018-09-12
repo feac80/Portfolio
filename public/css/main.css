@@ -1,0 +1,33 @@
+body html header {
+  height:100%;
+}
+
+#intro{
+    background: url('/img/landing.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+  }
+.sections{
+
+ padding-top: 80px;  
+
+}
+
+
+.col-md-4{
+    margin-top: 15px;
+}
+
+.display-4 {
+  font-size:2.5rem;
+}
+i{
+  padding-left: 5px;
+}
+
+.jumbotron {
+    padding: 1rem 2rem;
+}
