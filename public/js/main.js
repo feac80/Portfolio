@@ -15,6 +15,7 @@
         bar("#nodejs",65);
         bar("#mongodb",65);
         bar("#bootstrap",80);  
+        bar("#cypress",85);  
 
   // scrolling to the target link
 

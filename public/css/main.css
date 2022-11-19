@@ -31,3 +31,14 @@ i{
 .jumbotron {
     padding: 1rem 2rem;
 }
+
+/*position:relative;*/
+.iframe-container{
+  display: grid;
+  place-items: center;
+  height: 100%;  
+}
+iframe{
+  width: 60%;
+  height: 100%;  
+}
