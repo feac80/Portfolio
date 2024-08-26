@@ -62,17 +62,6 @@ function enviarEmail(req, res, next) {
     host: "smtp.gmail.com",
     port: 465,
     secure: true,
-    auth: {
-      type: "OAuth2",
-      user: "feac80@gmail.com",
-      clientId:
-        "196934756727-aofqg754ao12g89c1df596vhnb9jr4qm.apps.googleusercontent.com",
-      clientSecret: "Axkw-elZGO7uAoHmpOUT7Jcj",
-      refreshToken: "1/sVKV5Zpq1NUaTn9jjipplVoY1BAkwgFxYmXDbfSlFLA",
-      accessToken:
-        "ya29.GlsXBrG4jUk56d_kphdIMMn5CiJkbrP9Xi1bIYns3YHuRyyY5InxOFL2hEDoBrB1ah2wK8ztfY7QpqtWOwAYT4Mfm6oy3peDE5yMuER_nOgANCuAFaQ73KyZac1H",
-      expires: 1484314697598,
-    },
   });
 
   const mailOptions = {
