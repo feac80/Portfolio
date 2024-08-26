@@ -12,10 +12,9 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "connect-flash": "^0.1.1",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.10",
     "express": "^4.16.3",
     "express-session": "^1.15.6",
-    "nodemailer": "^4.6.8"
-  },
-  "devDependencies": {}
+    "nodemailer": "^6.9.14"
+  }
 }
